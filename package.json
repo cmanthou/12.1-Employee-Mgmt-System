@@ -1,18 +1,19 @@
 {
-    "name": "homework-12.1",
-    "version": "1.0.0",
-    "description": "12.1 Employee Management System",
-    "main": "app.js",
-    "directories": {
-      "lib": "lib"
-    },
-    "dependencies": {
-      "console.table": "^0.10.0",
-      "inquirer": "^7.0.3",
-      "mysql": "^2.17.1"
-    },
-    "devDependencies": {},
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    }
+  "name": "homework-12.1",
+  "version": "1.0.0",
+  "description": "12.1 Employee Management System",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "console-table": "^0.1.2",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
